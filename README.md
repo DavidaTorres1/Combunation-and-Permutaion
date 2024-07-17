@@ -1,3 +1,5 @@
+# Combunation and Permutation
+
 A Python project on how to calculate combunation and permuation without math imports.
 
 David A Torres, July 2024
